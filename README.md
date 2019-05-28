@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Know your Bitcoin rate!
+
+This app is created to gather information about Bitcon exchange rate for different currences. 
+Also it provides 31-days of exhange rates history.
+
+To use it you must have axios, react-router-dom and debounce from lodash.
 
 ## Available Scripts
 
